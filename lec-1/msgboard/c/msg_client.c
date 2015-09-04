@@ -25,7 +25,7 @@ int main(int argc, char ** argv)
          * Default values. Arguments will override this
          */
         char* server_port   = "5555";
-        char* server_ip     = "twood02.koding.io";
+        char* server_ip     = "upkk5920aab9.pradeep-k.koding.io";
         char* message       = "Hello";
         char* name          = "Pradeep";
 
